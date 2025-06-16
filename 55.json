@@ -1,0 +1,626 @@
+[
+  {
+    "ID": "4902",
+    "SURAH": "55",
+    "AYAH": "1",
+    "ARABIC_TEXT": "ٱلرَّحۡمَٰنُ",
+    "TRANSLATION": "(1) The Most Merciful",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4903",
+    "SURAH": "55",
+    "AYAH": "2",
+    "ARABIC_TEXT": "عَلَّمَ ٱلۡقُرۡءَانَ",
+    "TRANSLATION": "(2) Taught the Qur’ān,",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4904",
+    "SURAH": "55",
+    "AYAH": "3",
+    "ARABIC_TEXT": "خَلَقَ ٱلۡإِنسَٰنَ",
+    "TRANSLATION": "(3) Created man,",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4905",
+    "SURAH": "55",
+    "AYAH": "4",
+    "ARABIC_TEXT": "عَلَّمَهُ ٱلۡبَيَانَ",
+    "TRANSLATION": "(4) [And] taught him eloquence.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4906",
+    "SURAH": "55",
+    "AYAH": "5",
+    "ARABIC_TEXT": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+    "TRANSLATION": "(5) The sun and the moon [move] by precise calculation,",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4907",
+    "SURAH": "55",
+    "AYAH": "6",
+    "ARABIC_TEXT": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+    "TRANSLATION": "(6) And the stars and trees prostrate.[1593]",
+    "FOOTNOTES": "[1593]- They submit obediently to the laws of Allāh.  See 22:18.  An additional meaning of \"najm\" is vegetation of a kind without a trunk, stalk or stem."
+  },
+  {
+    "ID": "4908",
+    "SURAH": "55",
+    "AYAH": "7",
+    "ARABIC_TEXT": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+    "TRANSLATION": "(7) And the heaven He raised and imposed the balance",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4909",
+    "SURAH": "55",
+    "AYAH": "8",
+    "ARABIC_TEXT": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+    "TRANSLATION": "(8) That you not transgress within the balance.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4910",
+    "SURAH": "55",
+    "AYAH": "9",
+    "ARABIC_TEXT": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+    "TRANSLATION": "(9) And establish weight in justice and do not make deficient the balance.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4911",
+    "SURAH": "55",
+    "AYAH": "10",
+    "ARABIC_TEXT": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+    "TRANSLATION": "(10) And the earth He laid [out] for the creatures.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4912",
+    "SURAH": "55",
+    "AYAH": "11",
+    "ARABIC_TEXT": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+    "TRANSLATION": "(11) Therein is fruit and palm trees having sheaths [of dates]",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4913",
+    "SURAH": "55",
+    "AYAH": "12",
+    "ARABIC_TEXT": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+    "TRANSLATION": "(12) And grain having husks and scented plants.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4914",
+    "SURAH": "55",
+    "AYAH": "13",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(13) So which of the favors of your Lord would you deny?[1594]",
+    "FOOTNOTES": "[1594]- Literally, \"you two,\" addressing the species of mankind and jinn."
+  },
+  {
+    "ID": "4915",
+    "SURAH": "55",
+    "AYAH": "14",
+    "ARABIC_TEXT": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+    "TRANSLATION": "(14) He created man from clay like [that of] pottery.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4916",
+    "SURAH": "55",
+    "AYAH": "15",
+    "ARABIC_TEXT": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+    "TRANSLATION": "(15) And He created the jinn from a smokeless flame of fire.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4917",
+    "SURAH": "55",
+    "AYAH": "16",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(16) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4918",
+    "SURAH": "55",
+    "AYAH": "17",
+    "ARABIC_TEXT": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+    "TRANSLATION": "(17) [He is] Lord of the two sunrises and Lord of the two sunsets.[1595]",
+    "FOOTNOTES": "[1595]- i.e., the points of sunrise in the east and sunset in the west in both summer and winter."
+  },
+  {
+    "ID": "4919",
+    "SURAH": "55",
+    "AYAH": "18",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(18) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4920",
+    "SURAH": "55",
+    "AYAH": "19",
+    "ARABIC_TEXT": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+    "TRANSLATION": "(19) He released the two seas,[1596] meeting [one another];",
+    "FOOTNOTES": "[1596]- Two bodies of water or two sea waters of distinct characteristics."
+  },
+  {
+    "ID": "4921",
+    "SURAH": "55",
+    "AYAH": "20",
+    "ARABIC_TEXT": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+    "TRANSLATION": "(20) Between them is a barrier so neither of them transgresses.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4922",
+    "SURAH": "55",
+    "AYAH": "21",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(21) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4923",
+    "SURAH": "55",
+    "AYAH": "22",
+    "ARABIC_TEXT": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+    "TRANSLATION": "(22) From both of them emerge pearl and coral.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4924",
+    "SURAH": "55",
+    "AYAH": "23",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(23) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4925",
+    "SURAH": "55",
+    "AYAH": "24",
+    "ARABIC_TEXT": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+    "TRANSLATION": "(24) And to Him belong the ships [with sails] elevated in the sea like mountains.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4926",
+    "SURAH": "55",
+    "AYAH": "25",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(25) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4927",
+    "SURAH": "55",
+    "AYAH": "26",
+    "ARABIC_TEXT": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+    "TRANSLATION": "(26) Everyone upon it [i.e., the earth] will perish,",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4928",
+    "SURAH": "55",
+    "AYAH": "27",
+    "ARABIC_TEXT": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+    "TRANSLATION": "(27) And there will remain the Face[1597] of your Lord, Owner of Majesty and Honor.",
+    "FOOTNOTES": "[1597]- See footnote to 2:19."
+  },
+  {
+    "ID": "4929",
+    "SURAH": "55",
+    "AYAH": "28",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(28) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4930",
+    "SURAH": "55",
+    "AYAH": "29",
+    "ARABIC_TEXT": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+    "TRANSLATION": "(29) Whoever is within the heavens and earth asks Him; every day He is in [i.e., bringing about] a matter.[1598]",
+    "FOOTNOTES": "[1598]- For each of His creatures."
+  },
+  {
+    "ID": "4931",
+    "SURAH": "55",
+    "AYAH": "30",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(30) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4932",
+    "SURAH": "55",
+    "AYAH": "31",
+    "ARABIC_TEXT": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+    "TRANSLATION": "(31) We will attend to you, O prominent beings.[1599]",
+    "FOOTNOTES": "[1599]- Specifically two:  mankind and jinn."
+  },
+  {
+    "ID": "4933",
+    "SURAH": "55",
+    "AYAH": "32",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(32) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4934",
+    "SURAH": "55",
+    "AYAH": "33",
+    "ARABIC_TEXT": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ",
+    "TRANSLATION": "(33) O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh].",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4935",
+    "SURAH": "55",
+    "AYAH": "34",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(34) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4936",
+    "SURAH": "55",
+    "AYAH": "35",
+    "ARABIC_TEXT": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+    "TRANSLATION": "(35) There will be sent upon you a flame of fire and smoke,[1600] and you will not defend yourselves.",
+    "FOOTNOTES": "[1600]- Another possible meaning is liquefied brass or copper."
+  },
+  {
+    "ID": "4937",
+    "SURAH": "55",
+    "AYAH": "36",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(36) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4938",
+    "SURAH": "55",
+    "AYAH": "37",
+    "ARABIC_TEXT": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+    "TRANSLATION": "(37) And when the heaven is split open and becomes rose-colored like oil[1601] -",
+    "FOOTNOTES": "[1601]- Or \"like a tanned skin.\""
+  },
+  {
+    "ID": "4939",
+    "SURAH": "55",
+    "AYAH": "38",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(38) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4940",
+    "SURAH": "55",
+    "AYAH": "39",
+    "ARABIC_TEXT": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+    "TRANSLATION": "(39) Then on that Day none will be asked about his sin among men or jinn.[1602]",
+    "FOOTNOTES": "[1602]- Once they have been condemned to the Fire."
+  },
+  {
+    "ID": "4941",
+    "SURAH": "55",
+    "AYAH": "40",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(40) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4942",
+    "SURAH": "55",
+    "AYAH": "41",
+    "ARABIC_TEXT": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+    "TRANSLATION": "(41) The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4943",
+    "SURAH": "55",
+    "AYAH": "42",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(42) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4944",
+    "SURAH": "55",
+    "AYAH": "43",
+    "ARABIC_TEXT": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+    "TRANSLATION": "(43) This is Hell, which the criminals deny.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4945",
+    "SURAH": "55",
+    "AYAH": "44",
+    "ARABIC_TEXT": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+    "TRANSLATION": "(44) They will circulate between it and scalding water, heated [to the utmost degree].",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4946",
+    "SURAH": "55",
+    "AYAH": "45",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(45) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4947",
+    "SURAH": "55",
+    "AYAH": "46",
+    "ARABIC_TEXT": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+    "TRANSLATION": "(46) But for he who has feared the position of his Lord[1603] are two gardens -",
+    "FOOTNOTES": "[1603]- An alternative meaning is \"the standing [for account] before his Lord.\""
+  },
+  {
+    "ID": "4948",
+    "SURAH": "55",
+    "AYAH": "47",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(47) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4949",
+    "SURAH": "55",
+    "AYAH": "48",
+    "ARABIC_TEXT": "ذَوَاتَآ أَفۡنَانٖ",
+    "TRANSLATION": "(48) Having [spreading] branches.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4950",
+    "SURAH": "55",
+    "AYAH": "49",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(49) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4951",
+    "SURAH": "55",
+    "AYAH": "50",
+    "ARABIC_TEXT": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+    "TRANSLATION": "(50) In both of them are two springs, flowing.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4952",
+    "SURAH": "55",
+    "AYAH": "51",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(51) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4953",
+    "SURAH": "55",
+    "AYAH": "52",
+    "ARABIC_TEXT": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+    "TRANSLATION": "(52) In both of them are of every fruit, two kinds.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4954",
+    "SURAH": "55",
+    "AYAH": "53",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(53) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4955",
+    "SURAH": "55",
+    "AYAH": "54",
+    "ARABIC_TEXT": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+    "TRANSLATION": "(54) [They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4956",
+    "SURAH": "55",
+    "AYAH": "55",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(55) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4957",
+    "SURAH": "55",
+    "AYAH": "56",
+    "ARABIC_TEXT": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+    "TRANSLATION": "(56) In them are women limiting [their] glances,[1604] untouched[1605] before them by man or jinnī -",
+    "FOOTNOTES": "[1604]- To their own mates, i.e., being chaste and modest.\n[1605]- Literally, they have not been caused to bleed by loss of virginity."
+  },
+  {
+    "ID": "4958",
+    "SURAH": "55",
+    "AYAH": "57",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(57) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4959",
+    "SURAH": "55",
+    "AYAH": "58",
+    "ARABIC_TEXT": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+    "TRANSLATION": "(58) As if they were rubies and coral.[1606]",
+    "FOOTNOTES": "[1606]- In purity, color and beauty."
+  },
+  {
+    "ID": "4960",
+    "SURAH": "55",
+    "AYAH": "59",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(59) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4961",
+    "SURAH": "55",
+    "AYAH": "60",
+    "ARABIC_TEXT": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+    "TRANSLATION": "(60) Is the reward for good [anything] but good?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4962",
+    "SURAH": "55",
+    "AYAH": "61",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(61) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4963",
+    "SURAH": "55",
+    "AYAH": "62",
+    "ARABIC_TEXT": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "TRANSLATION": "(62) And below them both [in excellence] are two [other] gardens -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4964",
+    "SURAH": "55",
+    "AYAH": "63",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(63) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4965",
+    "SURAH": "55",
+    "AYAH": "64",
+    "ARABIC_TEXT": "مُدۡهَآمَّتَانِ",
+    "TRANSLATION": "(64) Dark green [in color].",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4966",
+    "SURAH": "55",
+    "AYAH": "65",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(65) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4967",
+    "SURAH": "55",
+    "AYAH": "66",
+    "ARABIC_TEXT": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+    "TRANSLATION": "(66) In both of them are two springs, spouting.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4968",
+    "SURAH": "55",
+    "AYAH": "67",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(67) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4969",
+    "SURAH": "55",
+    "AYAH": "68",
+    "ARABIC_TEXT": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+    "TRANSLATION": "(68) In both of them are fruit and palm trees and pomegranates.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4970",
+    "SURAH": "55",
+    "AYAH": "69",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(69) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4971",
+    "SURAH": "55",
+    "AYAH": "70",
+    "ARABIC_TEXT": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+    "TRANSLATION": "(70) In them are good and beautiful women -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4972",
+    "SURAH": "55",
+    "AYAH": "71",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(71) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4973",
+    "SURAH": "55",
+    "AYAH": "72",
+    "ARABIC_TEXT": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+    "TRANSLATION": "(72) Fair ones reserved in pavilions -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4974",
+    "SURAH": "55",
+    "AYAH": "73",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(73) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4975",
+    "SURAH": "55",
+    "AYAH": "74",
+    "ARABIC_TEXT": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+    "TRANSLATION": "(74) Untouched before them by man or jinnī -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4976",
+    "SURAH": "55",
+    "AYAH": "75",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(75) So which of the favors of your Lord would you deny? -",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4977",
+    "SURAH": "55",
+    "AYAH": "76",
+    "ARABIC_TEXT": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+    "TRANSLATION": "(76) Reclining on green cushions and beautiful fine carpets.",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4978",
+    "SURAH": "55",
+    "AYAH": "77",
+    "ARABIC_TEXT": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "TRANSLATION": "(77) So which of the favors of your Lord would you deny?",
+    "FOOTNOTES": ""
+  },
+  {
+    "ID": "4979",
+    "SURAH": "55",
+    "AYAH": "78",
+    "ARABIC_TEXT": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+    "TRANSLATION": "(78) Blessed is the name of your Lord, Owner of Majesty and Honor.",
+    "FOOTNOTES": ""
+  }
+]
